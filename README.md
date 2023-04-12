@@ -1,0 +1,2 @@
+# SensorManagerApp
+Simple sensor tester
